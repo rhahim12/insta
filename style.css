@@ -1,0 +1,34 @@
+body{
+    background-color: #be1ac0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: white;
+}
+button{
+    font-size: 30px;
+    font-weight: bold;
+    
+
+}
+.lamano{
+    background-color: #e379cc;
+    display: flex;
+    justify-items: center;
+}
+a>img{
+    width: 160px;
+    margin-left: 2vh;
+}
+.oui>button{
+    font-size: 300px;
+    color: red;
+    background-color: aqua;
+}
+
